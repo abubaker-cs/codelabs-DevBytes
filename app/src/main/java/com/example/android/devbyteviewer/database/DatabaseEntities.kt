@@ -40,6 +40,7 @@ data class DatabaseVideo constructor(
         val thumbnail: String)
 
 /**
+ * Extension Function: asDomainModel - convert DatabaseVideo database objects into domain objects.
  * Map DatabaseVideos to domain entities
  */
 fun List<DatabaseVideo>.asDomainModel(): List<DevByteVideo> {

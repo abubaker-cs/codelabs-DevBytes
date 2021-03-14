@@ -56,11 +56,9 @@ private lateinit var INSTANCE: VideosDatabase
 fun getDatabase(context: Context): VideosDatabase {
     synchronized(VideosDatabase::class.java) {
         if (!::INSTANCE.isInitialized) {
-            INSTANCE = Room.databaseBuilder(
-                    context.applicationContext,
+            INSTANCE = Room.databaseBuilder(context.applicationContext,
                     VideosDatabase::class.java,
-                    "videos"
-            ).build()
+                    "videos").build()
         }
     }
     return INSTANCE

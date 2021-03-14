@@ -36,7 +36,6 @@ class VideosRepository(private val database: VideosDatabase) {
         it.asDomainModel()
     })
 
-
     suspend fun refreshVideos() {
         withContext(Dispatchers.IO) {
             Timber.d("refresh videos is called");
@@ -46,4 +45,6 @@ class VideosRepository(private val database: VideosDatabase) {
     }
 
 }
+
+
 

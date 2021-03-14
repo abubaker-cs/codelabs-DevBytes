@@ -51,9 +51,8 @@ data class NetworkVideo(
         val thumbnail: String,
         val closedCaptions: String?)
 
-
-
 /**
+ * Extension Function: asDatabaseModel - Convert network objects into DatabaseVideo database objects.
  * Convert Network results to database objects
  */
 fun NetworkVideoContainer.asDatabaseModel(): List<DatabaseVideo> {
