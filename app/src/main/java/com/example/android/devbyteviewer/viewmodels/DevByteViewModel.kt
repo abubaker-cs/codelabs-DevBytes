@@ -19,7 +19,6 @@ package com.example.android.devbyteviewer.viewmodels
 import android.app.Application
 import androidx.lifecycle.*
 import com.example.android.devbyteviewer.domain.DevByteVideo
-
 import com.example.android.devbyteviewer.network.DevByteNetwork
 
 import kotlinx.coroutines.*
@@ -127,3 +126,4 @@ class DevByteViewModel(application: Application) : AndroidViewModel(application)
         }
     }
 }
+

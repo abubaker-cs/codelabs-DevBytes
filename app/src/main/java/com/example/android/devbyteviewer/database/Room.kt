@@ -37,13 +37,22 @@ interface VideoDao {
 
 }
 
+/**
+ * Implement RoomDatabase
+ */
 @Database(entities = [DatabaseVideo::class], version = 1)
 abstract class VideosDatabase : RoomDatabase() {
     abstract val videoDao: VideoDao
 }
 
+/**
+ * lateinit
+ */
 private lateinit var INSTANCE: VideosDatabase
 
+/**
+ * getDatabase()
+ */
 fun getDatabase(context: Context): VideosDatabase {
     synchronized(VideosDatabase::class.java) {
         if (!::INSTANCE.isInitialized) {
