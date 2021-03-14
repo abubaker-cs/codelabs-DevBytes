@@ -12,7 +12,8 @@ import kotlin.Suppress
 import kotlin.collections.emptySet
 import kotlin.text.buildString
 
-@Suppress("DEPRECATION", "unused", "ClassName", "REDUNDANT_PROJECTION")
+@Suppress("DEPRECATION", "unused", "ClassName", "REDUNDANT_PROJECTION", "RedundantExplicitType",
+    "LocalVariableName")
 class NetworkVideoJsonAdapter(
   moshi: Moshi
 ) : JsonAdapter<NetworkVideo>() {
