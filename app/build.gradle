@@ -74,7 +74,7 @@ dependencies {
     implementation "android.arch.navigation:navigation-ui-ktx:$nav_version"
 
     // coroutines for getting off the UI thread - version 1.0.1
-    def coroutines = "1.0.1"
+    def coroutines = "1.4.1"
     implementation "org.jetbrains.kotlinx:kotlinx-coroutines-core:$coroutines"
     implementation "org.jetbrains.kotlinx:kotlinx-coroutines-android:$coroutines"
 
