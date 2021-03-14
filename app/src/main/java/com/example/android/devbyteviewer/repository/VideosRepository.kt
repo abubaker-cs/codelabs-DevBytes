@@ -15,3 +15,27 @@
  */
 
 package com.example.android.devbyteviewer.repository
+
+import com.example.android.devbyteviewer.database.VideosDatabase
+import com.example.android.devbyteviewer.network.DevByteNetwork
+import com.example.android.devbyteviewer.network.asDatabaseModel
+import kotlinx.coroutines.Dispatchers
+import kotlinx.coroutines.withContext
+import timber.log.Timber
+
+/**
+ * It will be responsible for implementing "logic" to decide if the videos show be downloaded or
+ * shown from the existing local record in the Room Database
+ */
+class VideosRepository(private val database: VideosDatabase) {
+
+
+    suspend fun refreshVideos() {
+        withContext(Dispatchers.IO) {
+            Timber.d("refresh videos is called");
+            val playlist = DevByteNetwork.devbytes.getPlaylist()
+            database.videoDao.insertAll(playlist.asDatabaseModel())
+        }
+    }
+
+}

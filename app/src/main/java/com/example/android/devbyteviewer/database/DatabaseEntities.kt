@@ -28,7 +28,7 @@ import com.example.android.devbyteviewer.domain.DevByteVideo
 
 
 /**
- * DatabaseVideo represents a video entity in the database
+ * DatabaseVideo represents a video entity in the database.
  */
 @Entity
 data class DatabaseVideo constructor(
@@ -49,7 +49,6 @@ fun List<DatabaseVideo>.asDomainModel(): List<DevByteVideo> {
                 title = it.title,
                 description = it.description,
                 updated = it.updated,
-                thumbnail = it.thumbnail
-        )
+                thumbnail = it.thumbnail)
     }
 }
