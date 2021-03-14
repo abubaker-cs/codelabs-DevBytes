@@ -52,6 +52,19 @@ data class NetworkVideo(
         val thumbnail: String,
         val closedCaptions: String?)
 
+/**
+ * Map DatabaseVideos to domain entities
+ */
+fun List<DatabaseVideo>.asDomainModel(): List<DevByteVideo> {
+    return map {
+        DevByteVideo(
+                url = it.url,
+                title = it.title,
+                description = it.description,
+                updated = it.updated,
+                thumbnail = it.thumbnail)
+    }
+}
 
 /**
  * Convert Network results to database objects
