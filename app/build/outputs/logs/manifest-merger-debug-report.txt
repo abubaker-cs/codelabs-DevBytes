@@ -14,7 +14,7 @@ MERGED from [androidx.appcompat:appcompat:1.2.0] /home/abubaker/.gradle/caches/t
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/08ba10e92e85f06fb1e6d55b4008d5d9/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.core:core-ktx:1.3.2] /home/abubaker/.gradle/caches/transforms-2/files-2.1/32966771b4e7441e8048d91c76876885/jetified-core-ktx-1.3.2/AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.navigation:navigation-fragment-ktx:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/0e4aa04b82ceb307cd923ab770a21041/navigation-fragment-ktx-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/35d01cd3edd4e59ffc8d440791b869e2/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/efe981f87cfe1d1024b48a40ffc578dd/jetified-lifecycle-viewmodel-ktx-2.3.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/e9697760d2a68bdb873fc1b8f8e1f4c0/lifecycle-extensions-2.2.0/AndroidManifest.xml:17:1-27:12
 MERGED from [com.jakewharton.timber:timber:4.7.1] /home/abubaker/.gradle/caches/transforms-2/files-2.1/633705f3c92bb552571125589b185d83/jetified-timber-4.7.1/AndroidManifest.xml:2:1-9:12
 MERGED from [com.github.bumptech.glide:glide:4.12.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/086421e93e163c5a79d5e51fd9461e26/jetified-glide-4.12.0/AndroidManifest.xml:2:1-12:12
@@ -54,7 +54,7 @@ MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0] /home/abub
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/870aa6cc6e413a7a1d80bd806ed023df/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/842b01a3e9e9c0a522f74027a455a3e3/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.savedstate:savedstate:1.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/569bc7fba80283f91717101b778b8c39/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/b9462dceec5b1b5d3c901770439ddecd/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/676c57c13bf43417090d30192d8c60ef/lifecycle-viewmodel-2.3.0/AndroidManifest.xml:17:1-24:12
 MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/e042543184348b9a3b87acc2fe21e96a/jetified-gifdecoder-4.12.0/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.exifinterface:exifinterface:1.2.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/68510aee1d6e94367bcc582b147b8a1a/exifinterface-1.2.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.documentfile:documentfile:1.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/08c6cd82791c0e159b836da98769f02d/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
@@ -160,8 +160,8 @@ MERGED from [androidx.core:core-ktx:1.3.2] /home/abubaker/.gradle/caches/transfo
 MERGED from [androidx.core:core-ktx:1.3.2] /home/abubaker/.gradle/caches/transforms-2/files-2.1/32966771b4e7441e8048d91c76876885/jetified-core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.navigation:navigation-fragment-ktx:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/0e4aa04b82ceb307cd923ab770a21041/navigation-fragment-ktx-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.navigation:navigation-fragment-ktx:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/0e4aa04b82ceb307cd923ab770a21041/navigation-fragment-ktx-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/35d01cd3edd4e59ffc8d440791b869e2/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/35d01cd3edd4e59ffc8d440791b869e2/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/efe981f87cfe1d1024b48a40ffc578dd/jetified-lifecycle-viewmodel-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/efe981f87cfe1d1024b48a40ffc578dd/jetified-lifecycle-viewmodel-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/e9697760d2a68bdb873fc1b8f8e1f4c0/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/e9697760d2a68bdb873fc1b8f8e1f4c0/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
 MERGED from [com.jakewharton.timber:timber:4.7.1] /home/abubaker/.gradle/caches/transforms-2/files-2.1/633705f3c92bb552571125589b185d83/jetified-timber-4.7.1/AndroidManifest.xml:5:5-43
@@ -240,8 +240,8 @@ MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/abubaker/.gradle/cache
 MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/842b01a3e9e9c0a522f74027a455a3e3/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.savedstate:savedstate:1.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/569bc7fba80283f91717101b778b8c39/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.savedstate:savedstate:1.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/569bc7fba80283f91717101b778b8c39/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/b9462dceec5b1b5d3c901770439ddecd/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/b9462dceec5b1b5d3c901770439ddecd/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/676c57c13bf43417090d30192d8c60ef/lifecycle-viewmodel-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/676c57c13bf43417090d30192d8c60ef/lifecycle-viewmodel-2.3.0/AndroidManifest.xml:20:5-22:41
 MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/e042543184348b9a3b87acc2fe21e96a/jetified-gifdecoder-4.12.0/AndroidManifest.xml:5:5-7:41
 MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/e042543184348b9a3b87acc2fe21e96a/jetified-gifdecoder-4.12.0/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.exifinterface:exifinterface:1.2.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/68510aee1d6e94367bcc582b147b8a1a/exifinterface-1.2.0/AndroidManifest.xml:20:5-22:41
