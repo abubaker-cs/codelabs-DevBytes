@@ -54,6 +54,8 @@ data class NetworkVideo(
 
 /**
  * Convert Network results to database objects
+ * Extension Function: asDomainModel - convert DatabaseVideo database objects into domain objects.
+ * Map DatabaseVideos to domain entities
  */
 fun NetworkVideoContainer.asDomainModel(): List<DevByteVideo> {
     return videos.map {
