@@ -104,6 +104,10 @@ dependencies {
     implementation "androidx.room:room-runtime:$room_version"
     kapt "androidx.room:room-compiler:$room_version"
 
+    // WorkManager
+    def work_version = "1.0.1"
+    implementation "android.arch.work:work-runtime-ktx:$work_version"
+
 
     // logging
     implementation 'com.jakewharton.timber:timber:4.7.1'
