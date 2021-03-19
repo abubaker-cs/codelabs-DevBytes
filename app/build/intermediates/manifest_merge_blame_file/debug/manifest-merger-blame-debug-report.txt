@@ -1,0 +1,88 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<!--
+3  ~ Copyright (C) 2019 Google Inc.
+4  ~
+5  ~ Licensed under the Apache License, Version 2.0 (the "License");
+6  ~ you may not use this file except in compliance with the License.
+7  ~ You may obtain a copy of the License at
+8  ~
+9  ~     http://www.apache.org/licenses/LICENSE-2.0
+10  ~
+11  ~ Unless required by applicable law or agreed to in writing, software
+12  ~ distributed under the License is distributed on an "AS IS" BASIS,
+13  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+14  ~ See the License for the specific language governing permissions and
+15  ~ limitations under the License.
+16-->
+17<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+18    package="com.example.android.devbyteviewer"
+19    android:versionCode="1"
+20    android:versionName="1.0" >
+21
+22    <uses-sdk
+23        android:minSdkVersion="26"
+23-->/home/abubaker/AndroidStudioProjects/DevBytes-codelabs/app/src/main/AndroidManifest.xml
+24        android:targetSdkVersion="30" />
+24-->/home/abubaker/AndroidStudioProjects/DevBytes-codelabs/app/src/main/AndroidManifest.xml
+25
+26    <uses-permission android:name="android.permission.INTERNET" />
+26-->/home/abubaker/AndroidStudioProjects/DevBytes-codelabs/app/src/main/AndroidManifest.xml:22:5-67
+26-->/home/abubaker/AndroidStudioProjects/DevBytes-codelabs/app/src/main/AndroidManifest.xml:22:22-64
+27
+28    <application
+28-->/home/abubaker/AndroidStudioProjects/DevBytes-codelabs/app/src/main/AndroidManifest.xml:24:5-40:19
+29        android:name="com.example.android.devbyteviewer.DevByteApplication"
+29-->/home/abubaker/AndroidStudioProjects/DevBytes-codelabs/app/src/main/AndroidManifest.xml:25:9-43
+30        android:allowBackup="true"
+30-->/home/abubaker/AndroidStudioProjects/DevBytes-codelabs/app/src/main/AndroidManifest.xml:26:9-35
+31        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+31-->[androidx.core:core:1.3.2] /home/abubaker/.gradle/caches/transforms-2/files-2.1/d841ed34869fba4793d78a476b613978/core-1.3.2/AndroidManifest.xml:24:18-86
+32        android:debuggable="true"
+33        android:extractNativeLibs="false"
+34        android:icon="@mipmap/ic_launcher"
+34-->/home/abubaker/AndroidStudioProjects/DevBytes-codelabs/app/src/main/AndroidManifest.xml:27:9-43
+35        android:label="@string/app_name"
+35-->/home/abubaker/AndroidStudioProjects/DevBytes-codelabs/app/src/main/AndroidManifest.xml:28:9-41
+36        android:roundIcon="@mipmap/ic_launcher_round"
+36-->/home/abubaker/AndroidStudioProjects/DevBytes-codelabs/app/src/main/AndroidManifest.xml:29:9-54
+37        android:supportsRtl="true"
+37-->/home/abubaker/AndroidStudioProjects/DevBytes-codelabs/app/src/main/AndroidManifest.xml:30:9-35
+38        android:theme="@style/AppTheme" >
+38-->/home/abubaker/AndroidStudioProjects/DevBytes-codelabs/app/src/main/AndroidManifest.xml:31:9-40
+39        <activity android:name="com.example.android.devbyteviewer.ui.DevByteActivity" >
+39-->/home/abubaker/AndroidStudioProjects/DevBytes-codelabs/app/src/main/AndroidManifest.xml:33:9-39:20
+39-->/home/abubaker/AndroidStudioProjects/DevBytes-codelabs/app/src/main/AndroidManifest.xml:33:19-53
+40            <intent-filter>
+40-->/home/abubaker/AndroidStudioProjects/DevBytes-codelabs/app/src/main/AndroidManifest.xml:34:13-38:29
+41                <action android:name="android.intent.action.MAIN" />
+41-->/home/abubaker/AndroidStudioProjects/DevBytes-codelabs/app/src/main/AndroidManifest.xml:35:17-69
+41-->/home/abubaker/AndroidStudioProjects/DevBytes-codelabs/app/src/main/AndroidManifest.xml:35:25-66
+42
+43                <category android:name="android.intent.category.LAUNCHER" />
+43-->/home/abubaker/AndroidStudioProjects/DevBytes-codelabs/app/src/main/AndroidManifest.xml:37:17-77
+43-->/home/abubaker/AndroidStudioProjects/DevBytes-codelabs/app/src/main/AndroidManifest.xml:37:27-74
+44            </intent-filter>
+45        </activity>
+46
+47        <service
+47-->[androidx.room:room-runtime:2.2.6] /home/abubaker/.gradle/caches/transforms-2/files-2.1/35e0896283699e98a09af69a3ffddb8f/room-runtime-2.2.6/AndroidManifest.xml:25:9-28:40
+48            android:name="androidx.room.MultiInstanceInvalidationService"
+48-->[androidx.room:room-runtime:2.2.6] /home/abubaker/.gradle/caches/transforms-2/files-2.1/35e0896283699e98a09af69a3ffddb8f/room-runtime-2.2.6/AndroidManifest.xml:26:13-74
+49            android:directBootAware="true"
+49-->[androidx.room:room-runtime:2.2.6] /home/abubaker/.gradle/caches/transforms-2/files-2.1/35e0896283699e98a09af69a3ffddb8f/room-runtime-2.2.6/AndroidManifest.xml:27:13-43
+50            android:exported="false" />
+50-->[androidx.room:room-runtime:2.2.6] /home/abubaker/.gradle/caches/transforms-2/files-2.1/35e0896283699e98a09af69a3ffddb8f/room-runtime-2.2.6/AndroidManifest.xml:28:13-37
+51
+52        <provider
+52-->[androidx.lifecycle:lifecycle-process:2.2.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/6c7df7c03ced84c4818fc9f2bccc38d9/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:25:9-29:43
+53            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+53-->[androidx.lifecycle:lifecycle-process:2.2.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/6c7df7c03ced84c4818fc9f2bccc38d9/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:26:13-79
+54            android:authorities="com.example.android.devbyteviewer.lifecycle-process"
+54-->[androidx.lifecycle:lifecycle-process:2.2.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/6c7df7c03ced84c4818fc9f2bccc38d9/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:27:13-69
+55            android:exported="false"
+55-->[androidx.lifecycle:lifecycle-process:2.2.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/6c7df7c03ced84c4818fc9f2bccc38d9/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:28:13-37
+56            android:multiprocess="true" />
+56-->[androidx.lifecycle:lifecycle-process:2.2.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/6c7df7c03ced84c4818fc9f2bccc38d9/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:29:13-40
+57    </application>
+58
+59</manifest>
