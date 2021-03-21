@@ -15,6 +15,8 @@ MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/abubaker/.gradle/cac
 MERGED from [androidx.core:core-ktx:1.3.2] /home/abubaker/.gradle/caches/transforms-2/files-2.1/6e9a0a3c034e446efcc83d82295d8226/jetified-core-ktx-1.3.2/AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.navigation:navigation-fragment-ktx:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/e085728601ab194225a62fe3730d0e2b/navigation-fragment-ktx-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/94be0bef72c39fd4aee6169b68c125ac/jetified-lifecycle-viewmodel-ktx-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.work:work-runtime-ktx:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/e6539c2c459705adb4dee01969fa27f0/work-runtime-ktx-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:17:1-123:12
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/d7def338aa6a1a48d3db06d11b4e77d7/lifecycle-extensions-2.2.0/AndroidManifest.xml:17:1-27:12
 MERGED from [androidx.room:room-runtime:2.2.6] /home/abubaker/.gradle/caches/transforms-2/files-2.1/35e0896283699e98a09af69a3ffddb8f/room-runtime-2.2.6/AndroidManifest.xml:17:1-31:12
 MERGED from [com.jakewharton.timber:timber:4.7.1] /home/abubaker/.gradle/caches/transforms-2/files-2.1/b926709ff7a430726bdae1b59871f48a/jetified-timber-4.7.1/AndroidManifest.xml:2:1-9:12
@@ -93,6 +95,8 @@ MERGED from [com.google.android.material:material:1.0.0] /home/abubaker/.gradle/
 MERGED from [com.google.android.material:material:1.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/5fb0e5b1787923f5f5317ba691b875ee/material-1.0.0/AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/abubaker/.gradle/caches/transforms-2/files-2.1/1d079689a4aa9065046cc4c852d2b090/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/abubaker/.gradle/caches/transforms-2/files-2.1/1d079689a4aa9065046cc4c852d2b090/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:27:5-121:19
+MERGED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:27:5-121:19
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/d7def338aa6a1a48d3db06d11b4e77d7/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/d7def338aa6a1a48d3db06d11b4e77d7/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.room:room-runtime:2.2.6] /home/abubaker/.gradle/caches/transforms-2/files-2.1/35e0896283699e98a09af69a3ffddb8f/room-runtime-2.2.6/AndroidManifest.xml:24:5-29:19
@@ -167,6 +171,10 @@ MERGED from [androidx.navigation:navigation-fragment-ktx:2.0.0] /home/abubaker/.
 MERGED from [androidx.navigation:navigation-fragment-ktx:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/e085728601ab194225a62fe3730d0e2b/navigation-fragment-ktx-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/94be0bef72c39fd4aee6169b68c125ac/jetified-lifecycle-viewmodel-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/94be0bef72c39fd4aee6169b68c125ac/jetified-lifecycle-viewmodel-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.work:work-runtime-ktx:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/e6539c2c459705adb4dee01969fa27f0/work-runtime-ktx-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.work:work-runtime-ktx:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/e6539c2c459705adb4dee01969fa27f0/work-runtime-ktx-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:21:5-44
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/d7def338aa6a1a48d3db06d11b4e77d7/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/d7def338aa6a1a48d3db06d11b4e77d7/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.room:room-runtime:2.2.6] /home/abubaker/.gradle/caches/transforms-2/files-2.1/35e0896283699e98a09af69a3ffddb8f/room-runtime-2.2.6/AndroidManifest.xml:20:5-22:41
@@ -275,6 +283,198 @@ INJECTED from /home/abubaker/AndroidStudioProjects/DevBytes-codelabs/app/src/mai
 		INJECTED from /home/abubaker/AndroidStudioProjects/DevBytes-codelabs/app/src/main/AndroidManifest.xml
 		ADDED from /home/abubaker/AndroidStudioProjects/DevBytes-codelabs/app/src/main/AndroidManifest.xml
 		INJECTED from /home/abubaker/AndroidStudioProjects/DevBytes-codelabs/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:23:5-68
+	android:name
+		ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:23:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:24:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:25:5-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:25:22-78
+provider#androidx.work.impl.WorkManagerInitializer
+ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:28:9-34:35
+	android:authorities
+		ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:30:13-68
+	android:multiprocess
+		ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:33:13-40
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:32:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:34:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:31:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:29:13-69
+service#androidx.work.impl.background.systemalarm.SystemAlarmService
+ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:36:9-41:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:39:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:40:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:41:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:38:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:37:13-88
+service#androidx.work.impl.background.systemjob.SystemJobService
+ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:42:9-48:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:45:13-70
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:46:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:47:13-69
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:48:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:44:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:43:13-84
+receiver#androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver
+ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:50:9-55:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:53:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:54:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:55:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:52:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:51:13-88
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy
+ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:56:9-66:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:59:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:60:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:61:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:58:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:57:13-106
+intent-filter#action:name:android.intent.action.ACTION_POWER_CONNECTED+action:name:android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:62:13-65:29
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:63:17-87
+	android:name
+		ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:63:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:64:17-90
+	android:name
+		ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:64:25-87
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy
+ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:67:9-77:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:70:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:71:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:72:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:69:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:68:13-104
+intent-filter#action:name:android.intent.action.BATTERY_LOW+action:name:android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:73:13-76:29
+action#android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:74:17-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:74:25-74
+action#android.intent.action.BATTERY_LOW
+ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:75:17-76
+	android:name
+		ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:75:25-73
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy
+ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:78:9-88:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:81:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:82:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:83:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:80:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:79:13-104
+intent-filter#action:name:android.intent.action.DEVICE_STORAGE_LOW+action:name:android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:84:13-87:29
+action#android.intent.action.DEVICE_STORAGE_LOW
+ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:85:17-83
+	android:name
+		ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:85:25-80
+action#android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:86:17-82
+	android:name
+		ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:86:25-79
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy
+ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:89:9-98:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:92:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:93:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:94:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:91:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:90:13-103
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:95:13-97:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:96:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:96:25-76
+receiver#androidx.work.impl.background.systemalarm.RescheduleReceiver
+ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:99:9-110:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:102:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:103:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:104:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:101:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:100:13-88
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.TIMEZONE_CHANGED+action:name:android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:105:13-109:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:106:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:106:25-76
+action#android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:107:17-73
+	android:name
+		ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:107:25-70
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:108:17-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:108:25-78
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver
+ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:111:9-120:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:114:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:115:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:116:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:113:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:112:13-99
+intent-filter#action:name:androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:117:13-119:29
+action#androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:118:17-98
+	android:name
+		ADDED from [androidx.work:work-runtime:2.0.0] /home/abubaker/.gradle/caches/transforms-2/files-2.1/7c608db37cb965ccde8d3cc19bc163a6/work-runtime-2.0.0/AndroidManifest.xml:118:25-95
 service#androidx.room.MultiInstanceInvalidationService
 ADDED from [androidx.room:room-runtime:2.2.6] /home/abubaker/.gradle/caches/transforms-2/files-2.1/35e0896283699e98a09af69a3ffddb8f/room-runtime-2.2.6/AndroidManifest.xml:25:9-28:40
 	android:exported
