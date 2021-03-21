@@ -10,6 +10,10 @@ import retrofit2.HttpException
 //
 class RefreshDataWorker (appContext: Context, params: WorkerParameters) : CoroutineWorker(appContext, params) {
 
+    // Companion Object for working with WorkManager
+    companion object {
+        const val WORK_NAME = "com.example.android.devbyteviewer.work.RefreshDataWorker"
+    }
 
     //
     override suspend fun doWork(): Result {
