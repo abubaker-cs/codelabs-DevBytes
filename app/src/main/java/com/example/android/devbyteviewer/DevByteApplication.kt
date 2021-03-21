@@ -75,12 +75,16 @@ class DevByteApplication : Application() {
                 .build()
 
         // Fetch new data ones daily
-        // val repeatingRequest = PeriodicWorkRequestBuilder<RefreshDataWorker>(1, TimeUnit.DAYS).build()
-
-        // Fetch new data after every 15 minutes (note: actual time will depend on OS Battery's optimization)
-        val repeatingRequest = PeriodicWorkRequestBuilder<RefreshDataWorker>(15, TimeUnit.MINUTES)
+        val repeatingRequest = PeriodicWorkRequestBuilder<RefreshDataWorker>(1, TimeUnit.DAYS)
                 .setConstraints(constraints)
                 .build()
+
+        // Fetch new data after every 15 minutes (note: actual time will depend on OS Battery's optimization)
+        // val repeatingRequest = PeriodicWorkRequestBuilder<RefreshDataWorker>(15, TimeUnit.MINUTES)
+        //        .setConstraints(constraints)
+        //        .build()
+
+        Timber.d("Periodic Work request for sync is scheduled")
 
         // ExistingPeriodicWorkPolicy.KEEP parameter makes the WorkManager keep the previous periodic work and discard the new work request.
         WorkManager.getInstance().enqueueUniquePeriodicWork(
